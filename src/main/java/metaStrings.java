@@ -1,3 +1,18 @@
+/*
+Input :
+	str1 = "geeks"
+    str2 = "keegs"
+
+Output : Yes
+By just swapping 'k' and 'g' in any of string,
+both will become same.
+
+Input :
+	str1 = "rsting"
+    str2 = "string
+Output : No
+*/
+
 import java.util.Scanner;
 
 public class metaStrings {
